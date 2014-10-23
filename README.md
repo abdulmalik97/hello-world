@@ -1,4 +1,6 @@
-hello-world
-===========
-
-just another repository
+#include <stdio.h>
+#include <conio.h>
+void main(void)
+{ 
+ printf(" hello world " );
+ }
